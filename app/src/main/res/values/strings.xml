@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Перепись населения</string>
+
+    <string name="btn1">Что такое перепись населения?</string>
+    <string name="btn2">Для чего нужна перепись?</string>
+    <string name="btn3">Как проходит перепись?</string>
+    <string name="btn4">Как участвуют в переписи?</string>
+    <string name="btn5">Как стать переписчиком?</string>
+    <string name="btn6">Можно ли не проводить перепись?</string>
+    <string name="btn7">Что нужно знать о переписи населения?</string>
+    <string name="btn8">Вопросы анкеты</string>
+    <string name="btn9">Годы проведения и результаты предыдущих переписей</string>
+
+    <string name="admin_text">Панель администратора</string>
+    <string name="admin_id">Введите id</string>
+    <string name="admin_btn">Изменить</string>
+    <string name="admin_text_input">Введите текст</string>
+    <string name="email_text">Почта:</string>
+    <string name="password_text">Пароль:</string>
+    <string name="login_btn">Войти</string>
+    <string name="admin_method">Войти как администратор</string>
+    <string name="user_method">Войти как пользователь</string>
+    <string name="email_input">Введите почту</string>
+    <string name="password_input">Введите пароль</string>
+
+    <string-array name="array">
+        <item>(id:1) Что такое перепись населения?</item>
+        <item>(id:2) Для чего нужна перепись?</item>
+        <item>(id:3) Как проходит перепись?</item>
+        <item>(id:4) Как участвуют в переписи?</item>
+        <item>(id:5) Как стать переписчиком?</item>
+        <item>(id:6) Можно ли не проводить перепись?</item>
+        <item>(id:7) Что нужно знать о переписи населения?</item>
+        <item>(id:8) Вопросы анкеты</item>
+        <item>(id:9) Годы проведения и результаты предыдущих переписей</item>
+    </string-array>
+
+    <string name="example_1">Пример 1</string>
+    <string name="example_2">Пример 2</string>
+    <string name="example_3">Пример 3</string>
+    <string name="example_4">Пример 4</string>
+    <string name="example_5">Пример 5</string>
+
+    <string name="example_1_id">(ID:81)</string>
+    <string name="example_2_id">(ID:82)</string>
+    <string name="example_3_id">(ID:83)</string>
+</resources>
